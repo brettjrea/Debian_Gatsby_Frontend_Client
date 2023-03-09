@@ -16,7 +16,7 @@
    2. [Install Gatsby frontend](https://github.com/brettjrea/Debian_Gatsby_Frontend_Client)
    3. [Install PM2 Process](https://github.com/brettjrea/Debian_Configure_PM2)
 ---
-### Gatsby Typescript Styled Components
+### Debian Gatsby Frontend Client
 
 #### Install with Yarn: 
 *Originally wrote with NPM but had too many issues with the cache, but yarn worked fine. Moved those instructions to README_NPM.MD*
