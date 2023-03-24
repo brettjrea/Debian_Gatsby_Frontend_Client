@@ -12,7 +12,7 @@ yarn global add typescript
 yarn global add gatsby-cli
 gatsby options set package-manager yarn
 
-# Create new Gatsby project and add dependencies
+# Create new Gatsby project and add dependencies.
 gatsby new my-frontend https://github.com/brettjrea/gatsby_typescript_styled_components
 cd my-frontend
 yarn add styled-components gatsby-plugin-styled-components babel-plugin-styled-components
